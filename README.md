@@ -16,7 +16,7 @@ Classification challenge to predict passenger fate aboard a fictional spaceship.
 ### 🔹 [Facial Emotion Recognition – CNN Project](https://github.com/mohitkorai/facial-emotion-recognition-cnn)  
 Classifies 7 emotions from grayscale face images using a CNN trained on the FER-2013 dataset.  
 **Highlights:** TensorFlow/Keras CNN, Class Balancing, Dropout, Callbacks  
-**Result:** 🎯 Accuracy: 82%
+**Result:** 🎯 Accuracy: 82.85%
 
 ---
 
