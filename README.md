@@ -23,12 +23,12 @@ Classifies 7 emotions from grayscale face images using a CNN trained on the FER-
 ## 🧰 Tools & Technologies
 
 - **Languages:** Python, R, SQL, HTML, CSS  
-- **ML/DL Libraries:** scikit-learn, TensorFlow, Keras, XGBoost, CatBoost  
+- **ML/DL Libraries:** scikit-learn, TensorFlow, Keras, MLflow, XGBoost, CatBoost  
 - **Databases & Warehousing:** Snowflake, MySQL, BigQuery, Azure Blob Storage  
 - **Data Manipulation:** Pandas, NumPy  
 - **Cloud/Platforms:** AWS (SageMaker, Lambda, S3), GCP, Azure  
 - **Visualization:** Power BI, Tableau, Seaborn, Matplotlib  
-- **Other:** GitHub, Bubble.io, Zapier, REST APIs, Webhooks
+- **Other:** GitHub, Bubble.io, Zapier, Airflow, Docker, REST APIs, Webhooks
 
 ---
 
