@@ -18,6 +18,12 @@ Classifies 7 emotions from grayscale face images using a CNN trained on the FER-
 **Highlights:** TensorFlow/Keras CNN, Class Balancing, Dropout, Callbacks  
 **Result:** 🎯 Accuracy: 82.85%
 
+### 🔹 [Injury Prediction – R ML Project](https://github.com/mohitkorai/injury-prediction)  
+Predicts injury outcomes using multiple classification models in R.  
+**Highlights:** Random Forest, Logistic Regression, EDA in ggplot2  
+**Result:** 🩺 Best Accuracy: 84.02% (Random Forest)  
+**📄 Report:** [View HTML](https://mohitkorai.github.io/injury-prediction/)
+
 ---
 
 ## 🧰 Tools & Technologies
