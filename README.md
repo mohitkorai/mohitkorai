@@ -2,7 +2,7 @@
 
 I'm a Data Science and Machine Learning professional with 3+ years of experience in engineering, analytics, and product-focused AI development. I specialize in building intelligent systems that solve real-world problems using structured data, modern ML models, and full-stack deployment strategies.
 
-I’ve worked across startups and enterprises in the USA and India, delivering production-grade ML solutions including predictive modeling, chatbot systems, recommendation engines, and dashboard-driven analytics.
+I’ve worked across startups and enterprises in the USA, delivering production-grade ML solutions including predictive modeling, chatbot systems, recommendation engines, and dashboard-driven analytics.
 
 ---
 
